@@ -11,3 +11,6 @@ Macy
 2
 3
 4
+Saturday
+Sunday
+Monday
